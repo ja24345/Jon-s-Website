@@ -115,19 +115,19 @@ p {
     max-width: 400px;  
 }
 
-#personalimg { background-image: url('photos/PC.jpg'); }
-#tank { background-image: url('photos/IMG_1011.jpg'); }
-#costume { background-image: url('photos/IMG_8775.jpg'); }
+#personalimg { background-image: url('PC.jpg'); }
+#tank { background-image: url('IMG_1011.jpg'); }
+#costume { background-image: url('IMG_8775.jpg'); }
 
-#homeimg { background-image: url('photos/IMG_7454.jpg'); }
+#homeimg { background-image: url('IMG_7454.jpg'); }
 
-#futureProjectsimg { background-image: url('photos/fish.jpg'); }
+#futureProjectsimg { background-image: url('fish.jpg'); }
 
-#AboutMeimg { background-image: url('photos/IMG_1019.JPG'); }
-#trip1 { background-image: url('photos/IMG_1014.JPG'); }
-#trip2 { background-image: url('photos/IMG_1018.JPG'); }
-#trip3 { background-image: url('photos/IMG_1015.JPG'); }
-#trip4 { background-image: url('photos/IMG_1017.JPG'); }
+#AboutMeimg { background-image: url('IMG_1019.JPG'); }
+#trip1 { background-image: url('IMG_1014.JPG'); }
+#trip2 { background-image: url('IMG_1018.JPG'); }
+#trip3 { background-image: url('IMG_1015.JPG'); }
+#trip4 { background-image: url('IMG_1017.JPG'); }
 
 
 
